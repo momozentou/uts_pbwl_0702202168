@@ -1,0 +1,1 @@
+<h2 style="text-align: center;">SELAMAT DATANG DI SENSUS PENDUDUK </h2>
